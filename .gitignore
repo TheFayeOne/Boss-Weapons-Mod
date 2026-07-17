@@ -1,0 +1,9 @@
+# Build Artifacts
+build/
+run/
+.gradle/
+
+# Junk Files from MCreator
+.eclipse/
+.project
+.classpath

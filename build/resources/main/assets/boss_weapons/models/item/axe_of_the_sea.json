@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "boss_weapons:item/axeofthesea_held"
-  }
-}

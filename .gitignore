@@ -1,9 +1,7 @@
-# Build Artifacts
+.eclipse/
+.gradle/
+.mcreator/
 build/
 run/
-.gradle/
-
-# Junk Files from MCreator
-.eclipse/
-.project
-.classpath
+boss_weapons.mcreator
+*.jar

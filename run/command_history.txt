@@ -1,0 +1,47 @@
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/give Dev boss_weapons:dragontail_greatsword
+/effect give @s minecraft:saturation infinite
+/kill @e[type=minecraft:warden]
+/tp @e[type=minecraft:warden] Dev
+/enchant @s minecraft:feather_falling 4
+/enchant @s minecraft:blast_protection 4
+/enchant @s minecraft:feather_falling 4
+/enchant @s minecraft:protection 4
+/enchant @s minecraft:feather_falling 4
+/enchant @s minecraft:protection 4
+/summon minecraft:giant
+/summon minecraft:iron_golem ~5 ~ ~5
+/give Dev boss_weapons:sonorous_staff
+/time set midnight
+/tick f
+/tick freeze
+/tick rate 1
+/tick rate 2
+/tick rate 5
+/tick rate 20
+/tick unfreeze
+/tick rate 1
+/tick rate 5
+/tick freeze
+/tick step 1t
+/tick freeze
+/tick unfreeze
+/give @s boss_weapons:sonorous_staff
+/tick rate 1
+/tick rate 20
+/tick rate 4
+/tick rate 20
+/tick rate 1
+/tick rate 20
+/give @s boss_weapons:sonorous_staff
+/kill @s
+/effect give @a minecraft:instant_health 1 255
+/effect give @a minecraft:instant_health 255
+/effect clear
+/give @s minecraft:golden_apple 64
+/summon minecraft:wither ~20 ~10 ~20
+/summon minecraft:ravager ~20 ~ ~20

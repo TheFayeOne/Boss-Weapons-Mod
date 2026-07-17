@@ -1,0 +1,56 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Witherstaff"
+      },
+      {
+        "value": "CUSTOM:Witherblade"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.SKULL#1"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "Items.SKULL#1"
+      },
+      {
+        "value": "Items.SKULL#1"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "Items.SKULL#1"
+      },
+      {
+        "value": "Items.SKULL#1"
+      },
+      {
+        "value": "CUSTOM:Witherstaff"
+      },
+      {
+        "value": "Items.SKULL#1"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Witherblade"
+    },
+    "name": "witherblade_recipe",
+    "namespace": "mod"
+  }
+}

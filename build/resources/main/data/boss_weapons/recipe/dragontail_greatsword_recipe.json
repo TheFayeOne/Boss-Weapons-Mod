@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dragon_breath",
+    "minecraft:dragon_egg",
+    "boss_weapons:ender_blade",
+    "minecraft:dragon_head"
+  ],
+  "result": {
+    "id": "boss_weapons:dragontail_greatsword",
+    "count": 1
+  }
+}

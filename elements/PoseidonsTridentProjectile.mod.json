@@ -1,0 +1,25 @@
+{
+  "_fv": 79,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:PosidensTrident"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "item.trident.throw"
+    },
+    "igniteFire": false,
+    "disableGravity": false,
+    "power": 2.0,
+    "damage": 10.0,
+    "knockback": 5,
+    "entityModel": "ModelPosidensTrident",
+    "customModelTexture": "trident.png",
+    "modelWidth": 1.0,
+    "modelHeight": 0.5,
+    "onHitsEntity": {
+      "name": "PosidensTridentProjectileProjectileHitsLivingEntity"
+    }
+  }
+}

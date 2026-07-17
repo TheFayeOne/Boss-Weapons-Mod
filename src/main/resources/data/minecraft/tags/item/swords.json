@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "boss_weapons:witherblade",
+    "boss_weapons:ender_blade",
+    "boss_weapons:dragontail_greatsword"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "Blocks.SCULK_CATALYST"
+      },
+      {
+        "value": "Items.SILENCE_ARMOR_TRIM"
+      },
+      {
+        "value": "Items.WARD_ARMOR_TRIM"
+      },
+      {
+        "value": "Items.MUSIC_DISC_5"
+      },
+      {
+        "value": "CUSTOM:SonorousStaff"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Items.WARD_ARMOR_TRIM"
+      },
+      {
+        "value": "Items.SILENCE_ARMOR_TRIM"
+      },
+      {
+        "value": "Items.ECHO_SHARD"
+      },
+      {
+        "value": "Blocks.SCULK"
+      },
+      {
+        "value": "Blocks.SCULK_CATALYST"
+      },
+      {
+        "value": "Blocks.SCULK_SHRIEKER"
+      },
+      {
+        "value": "Items.MUSIC_DISC_5"
+      },
+      {
+        "value": "Blocks.SCULK_SENSOR"
+      },
+      {
+        "value": "Blocks.SCULK_VEIN"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SonorousStaff"
+    },
+    "name": "sonourous_staff_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "Blocks.PRISMARINE"
+      },
+      {
+        "value": "CUSTOM:AxeOfTheSea"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.PRISMARINE_SHARD"
+      },
+      {
+        "value": "Blocks.PRISMARINE"
+      },
+      {
+        "value": "Items.PRISMARINE_CRYSTALS"
+      },
+      {
+        "value": "Blocks.PRISMARINE"
+      },
+      {
+        "value": "Items.DIAMOND_AXE"
+      },
+      {
+        "value": "Blocks.PRISMARINE"
+      },
+      {
+        "value": "Items.PRISMARINE_CRYSTALS"
+      },
+      {
+        "value": "Blocks.PRISMARINE"
+      },
+      {
+        "value": "Items.PRISMARINE_SHARD"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AxeOfTheSea"
+    },
+    "name": "axe_of_the_sea_recipe",
+    "namespace": "mod"
+  }
+}
